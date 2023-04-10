@@ -1,5 +1,4 @@
-# codeding
-Blooood
+# There one at all 
 from django.db import migrations, models
  import django.utils.timezone
 
